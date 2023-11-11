@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aHome"
+        android:title="Admin Home" />
+    <item
+        android:id="@+id/logouttt"
+        android:title="Log Out" />
+</menu>
